@@ -1,0 +1,10 @@
+<alunos>
+	<aluno>
+		<matricula>0001</matricula>
+		<nome>Anne</nome>
+	</aluno>
+	<aluno>
+		<matricula>0002</matricula>
+		<nome>Ana</nome>
+	</aluno>
+</alunos>
